@@ -1,1 +1,1 @@
-const keys = require('./lib/Keys');
+const keys = require('./Typescript/Keys');
